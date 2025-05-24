@@ -67,3 +67,5 @@ mysql -u root -p
 📅 Date
 
 Work completed between May 22–24, 2025.
+
+Enjoy !
